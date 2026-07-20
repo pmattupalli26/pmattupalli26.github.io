@@ -1,0 +1,17 @@
+{
+  "copyright": "Pardhu Mattupalli",
+  "year": "2026",
+  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pardhu--mattupalli?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:pmattupalli26@gmail.com",
+      "icon": "email"
+    }
+  ]
+}

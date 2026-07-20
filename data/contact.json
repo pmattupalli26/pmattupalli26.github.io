@@ -1,0 +1,12 @@
+{
+  "heading": "$ mail -s 'Hello' visitor@portfolio",
+  "subheading": "I'm always interested in hearing about new projects and opportunities. Let's connect.",
+  "email": "pmattupalli26@gmail.com",
+  "phone": "(929) 564-5364",
+  "location": "New Jersey, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/pardhu--mattupalli?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+  },
+  "formAction": ""
+}

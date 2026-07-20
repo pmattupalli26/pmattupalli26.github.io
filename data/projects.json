@@ -1,0 +1,158 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "driftguard",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/driftguard",
+      "isNew": false
+    },
+    {
+      "name": "surecast",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/surecast",
+      "isNew": false
+    },
+    {
+      "name": "text-analysis-using-nlp-streamlit",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/text-analysis-using-nlp-streamlit",
+      "isNew": false
+    },
+    {
+      "name": "deploying-aws-webapp-terraform-github-actions",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "HCL",
+        "HTML",
+        "Python",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "HCL",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/deploying-aws-webapp-terraform-github-actions",
+      "isNew": false
+    },
+    {
+      "name": "pipeline-guard",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "Python",
+        "Open Policy Agent",
+        "HCL",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/pipeline-guard",
+      "isNew": false
+    },
+    {
+      "name": "kube-rightsizer",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [
+        "Go",
+        "Shell",
+        "Go Template",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Go",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/kube-rightsizer",
+      "isNew": false
+    },
+    {
+      "name": "goodreads_etl_pipeline",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/goodreads_etl_pipeline",
+      "isNew": false
+    },
+    {
+      "name": "fraud-detection-in-python",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/fraud-detection-in-python",
+      "isNew": false
+    },
+    {
+      "name": "creditcardfrauddetection-mlops",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/creditcardfrauddetection-mlops",
+      "isNew": false
+    },
+    {
+      "name": "contribution-history",
+      "description": "Contribution activity",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/contribution-history",
+      "isNew": false
+    },
+    {
+      "name": "end-to-end-pipeline-snowflake-dbt-tableau",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/pmattupalli26/end-to-end-pipeline-snowflake-dbt-tableau",
+      "isNew": false
+    }
+  ]
+}

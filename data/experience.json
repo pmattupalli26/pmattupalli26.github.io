@@ -1,0 +1,71 @@
+{
+  "heading": "$ ps aux --sort=start_time",
+  "positions": [
+    {
+      "pid": "1337",
+      "company": "Johnson & Johnson",
+      "title": "AI Engineer",
+      "location": "",
+      "startDate": "Aug 2025",
+      "endDate": "Present",
+      "status": "RUNNING",
+      "description": "Built clinical decision support and predictive analytics models for healthcare workflows, ensuring alignment with HIPAA and other regulatory requirements throughout the AI lifecycle.\nPartnered with cross-functional stakeholders in Agile/Scrum sprints to translate healthcare AI use cases into production-ready ML solutions.\nRe-architected large-scale healthcare data pipelines in Python, PySpark, and SQL, cutting data processing time by 35%.\nTrained and deployed deep learning and NLP models, including transformer-based architectures, using TensorFlow, PyTorch, and Scikit-learn for disease risk prediction, patient outcome analysis, and clinical intelligence.\nEngineered Retrieval-Augmented Generation (RAG) pipelines combining LLMs, vector databases, and prompt engineering to power context-aware clinical information retrieval.\nDeveloped AI agents for automated document processing and clinical workflow tasks, reducing manual effort in information retrieval.\nRan the full model lifecycle feature engineering, hyperparameter tuning, cross-validation, and evaluation to strengthen predictive reliability across healthcare AI applications.\nShipped AI services via FastAPI, Docker, and Kubernetes on AWS, with MLflow and GitHub Actions automating deployment and lifecycle management.\nBuilt Power BI/SQL dashboards for real-time healthcare analytics, and implemented drift detection, explainability checks, and bias monitoring for responsible AI governance.\nImproved model response accuracy by 25%, accelerating clinical data analysis and decision-making.",
+      "achievements": [
+        "Built clinical decision support and predictive analytics models for healthcare workflows, ensuring alignment with HIPAA and other regulatory requirements throughout the AI lifecycle.",
+        "Partnered with cross-functional stakeholders in Agile/Scrum sprints to translate healthcare AI use cases into production-ready ML solutions.",
+        "Re-architected large-scale healthcare data pipelines in Python, PySpark, and SQL, cutting data processing time by 35%.",
+        "Trained and deployed deep learning and NLP models, including transformer-based architectures, using TensorFlow, PyTorch, and Scikit-learn for disease risk prediction, patient outcome analysis, and clinical intelligence.",
+        "Engineered Retrieval-Augmented Generation (RAG) pipelines combining LLMs, vector databases, and prompt engineering to power context-aware clinical information retrieval."
+      ],
+      "technologies": [
+        "Python",
+        "PySpark",
+        "SQL",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "RAG",
+        "LLMs",
+        "FastAPI",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "MLflow",
+        "GitHub Actions",
+        "Power BI"
+      ]
+    },
+    {
+      "pid": "1237",
+      "company": "Infosys",
+      "title": "Machine Learning Engineer",
+      "location": "",
+      "startDate": "Feb 2022",
+      "endDate": "May 2024",
+      "status": "STOPPED",
+      "description": "Developed ML solutions for fraud detection, credit risk scoring, and customer intelligence in compliance with RBI guidelines and India's DPDP Act, 2023.\nWorked with business and engineering teams to scope ML use cases and deliver solutions for financial applications.\nStreamlined financial data pipelines in Python, PySpark, and SQL, reducing processing time by 47%.\nTrained fraud detection, credit risk, and forecasting models using Scikit-learn, XGBoost, and TensorFlow.\nRan exploratory data analysis and feature engineering that lifted fraud detection accuracy by 18%.\nBuilt real-time and batch prediction pipelines in Python, PySpark, and AWS for transaction monitoring.\nDeployed models to production using Amazon SageMaker, S3, and Lambda for secure, low-latency prediction serving.\nAutomated MLOps workflows versioning, experiment tracking, CI/CD using MLflow and Git.\nCreated Tableau dashboards and SQL reports tracking model performance and fraud trends for business stakeholders.\nReduced prediction latency by 30% through ongoing drift detection and model retraining, while maintaining financial data governance standards.",
+      "achievements": [
+        "Developed ML solutions for fraud detection, credit risk scoring, and customer intelligence in compliance with RBI guidelines and India's DPDP Act, 2023.",
+        "Worked with business and engineering teams to scope ML use cases and deliver solutions for financial applications.",
+        "Streamlined financial data pipelines in Python, PySpark, and SQL, reducing processing time by 47%.",
+        "Trained fraud detection, credit risk, and forecasting models using Scikit-learn, XGBoost, and TensorFlow.",
+        "Ran exploratory data analysis and feature engineering that lifted fraud detection accuracy by 18%."
+      ],
+      "technologies": [
+        "Python",
+        "PySpark",
+        "SQL",
+        "Scikit-learn",
+        "XGBoost",
+        "TensorFlow",
+        "AWS",
+        "Amazon SageMaker",
+        "S3",
+        "Lambda",
+        "MLflow",
+        "Git",
+        "Tableau"
+      ]
+    }
+  ]
+}

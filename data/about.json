@@ -1,0 +1,22 @@
+{
+  "heading": "$ cat about.md",
+  "bio": [
+    "AI/ML Engineer with 3+ years of experience designing, developing and deploying scalable Artificial Intelligence and Machine Learning solutions across Healthcare and Financial domains. Proficient in Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and MLOps using Python, PySpark, SQL, TensorFlow, PyTorch, Scikit-learn and AWS. Experienced in building production-ready AI systems, intelligent automation solutions and real-time predictive analytics pipelines while implementing CI/CD, model monitoring and responsible AI practices.",
+    "Skilled in developing scalable ML pipelines, deploying cloud-native AI applications and ensuring regulatory compliance with HIPAA, RBI guidelines and the DPDP Act, 2023. Proven ability to collaborate with cross-functional teams in Agile environments to deliver secure, high-performing and business-driven AI solutions."
+  ],
+  "highlights": [
+    {
+      "label": "Years Experience",
+      "value": "1+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "0+"
+    },
+    {
+      "label": "Technologies",
+      "value": "107+"
+    }
+  ],
+  "currentFocus": "AI Engineer"
+}
