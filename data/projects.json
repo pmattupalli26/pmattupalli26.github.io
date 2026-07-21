@@ -133,17 +133,6 @@
       "isNew": false
     },
     {
-      "name": "contribution-history",
-      "description": "Contribution activity",
-      "technologies": [],
-      "stars": 0,
-      "forks": 0,
-      "language": "",
-      "liveUrl": "",
-      "githubUrl": "https://github.com/pmattupalli26/contribution-history",
-      "isNew": false
-    },
-    {
       "name": "end-to-end-pipeline-snowflake-dbt-tableau",
       "description": "Interactive application built for continuous learning",
       "technologies": [],

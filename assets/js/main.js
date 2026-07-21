@@ -466,8 +466,14 @@
       if (proj.liveUrl) linksHTML += '<a href="' + esc(proj.liveUrl) + '" target="_blank" rel="noopener noreferrer" class="project-link">' + icon('external') + ' Live Demo</a>';
       linksHTML += '</div>';
 
+      var imgSrc = proj.image || ('assets/images/projects/' + proj.name + '.png');
+      var thumbHTML = '<div class="project-thumb">' +
+        '<img src="' + esc(imgSrc) + '" alt="' + esc(proj.name) + ' schematic" loading="lazy" ' +
+        'onerror="this.closest(\'.project-card\').classList.add(\'no-thumb\');this.parentElement.remove();"></div>';
+
       return '<div class="project-card">' +
         newBadge +
+        thumbHTML +
         '<div class="project-name"><span class="lang-dot ' + langClass + '"></span>' + esc(proj.name) + '</div>' +
         '<div class="project-description">' + esc(proj.description) + '</div>' +
         metaHTML + techHTML + linksHTML +
