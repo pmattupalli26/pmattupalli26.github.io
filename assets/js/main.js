@@ -375,9 +375,20 @@
         }).join('') +
         '</div>';
 
+      var logoHTML;
+      if (pos.logo) {
+        logoHTML = '<span class="exp-logo"><img src="' + esc(pos.logo) + '" alt="' + esc(pos.company) + ' logo" class="exp-logo-img" ' +
+          'onerror="this.parentElement.classList.add(\'exp-logo-mono\');this.parentElement.textContent=this.parentElement.getAttribute(\'data-mono\');"></span>';
+      } else {
+        var mono = (pos.company || '').split(' ').map(function (w) { return w[0]; }).join('').slice(0, 3).toUpperCase();
+        logoHTML = '<span class="exp-logo exp-logo-mono">' + esc(mono) + '</span>';
+      }
+      var monoFallback = (pos.company || '').split(' ').map(function (w) { return w[0]; }).join('').slice(0, 3).toUpperCase();
+
       return '<div class="experience-card">' +
         '<div class="exp-header">' +
           '<div class="exp-header-left">' +
+            logoHTML.replace('<span class="exp-logo">', '<span class="exp-logo" data-mono="' + esc(monoFallback) + '">') +
             '<span class="exp-company">' + esc(pos.company) + '</span>' +
             (statusLabel ? '<span class="exp-status running">' + statusLabel + '</span>' : '') +
           '</div>' +

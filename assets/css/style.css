@@ -783,6 +783,37 @@ main {
   font-weight: 600;
   color: var(--text);
 }
+.exp-logo {
+  width: 44px;
+  height: 44px;
+  border: 2px solid var(--border);
+  background: var(--surface);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-bottom: 0.35rem;
+  box-shadow: 3px 3px 0 var(--border);
+  transition: var(--transition);
+}
+.experience-card:hover .exp-logo {
+  transform: translate(-2px, -2px);
+  box-shadow: 5px 5px 0 var(--border);
+}
+.exp-logo-img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+  display: block;
+}
+.exp-logo-mono {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
 
 .exp-status {
   font-family: var(--font-mono);

@@ -38,6 +38,7 @@
     {
       "pid": "1237",
       "company": "Infosys",
+      "logo": "assets/images/logos/infosys.svg",
       "title": "Machine Learning Engineer",
       "location": "",
       "startDate": "Feb 2022",
